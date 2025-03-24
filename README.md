@@ -1,5 +1,5 @@
 # 🎬 Netflix Data Analysis with SQL
-<img src="logo.jpeg" alt="Netflix Analysis" width="800">
+<img src="logo.jpeg" alt="Netflix Analysis" width="800" height="200">
 
 🚀 A collection of SQL queries to analyze Netflix's dataset, including content statistics, genres, directors, and country-wise trends.
 
