@@ -1,5 +1,5 @@
 # 🎬 Netflix Data Analysis with SQL
-[logo](logo.jpeg)
+![Netflix Analysis](logo.jpeg)
 
 🚀 A collection of SQL queries to analyze Netflix's dataset, including content statistics, genres, directors, and country-wise trends.
 
