@@ -6,9 +6,6 @@
 - [Overview](#-overview)
 - [Dataset Information](#-dataset-information)
 - [Queries Included](#-queries-included)
-- [Usage](#-usage)
-- [Example Queries](#-example-queries)
-- [Contributing](#-contributing)
 - [Author](#-author)
 
 ---
