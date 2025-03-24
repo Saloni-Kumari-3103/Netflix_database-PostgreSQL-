@@ -35,34 +35,6 @@ The dataset includes:
 ```sql
 SELECT type, COUNT(*) AS total FROM netflix GROUP BY type;
 ```
-# 📊 Netflix Data Analysis Using SQL
-
-## 📌 Overview
-
-This project contains various SQL queries to analyze the Netflix dataset. The queries cover content categorization, director analysis, country-based trends, and more. This analysis helps understand Netflix's content distribution, trends, and patterns.
-
-## 📂 Dataset Description
-
-The dataset includes the following columns:
-
-- **show\_id**: Unique ID for each show
-- **type**: Movie or TV Show
-- **title**: Title of the show
-- **director**: Director of the show
-- **casts**: Actors involved in the show
-- **country**: Country where the show was produced
-- **date\_added**: Date when the show was added to Netflix
-- **release\_year**: Year of release
-- **duration**: Duration of the content (minutes or seasons for TV shows)
-- **listed\_in**: Genre/categories of the show
-- **description**: Brief description of the show
-
-## 🚀 SQL Queries
-
-### 🎥 1. Count of Movies vs TV Shows
-```sql
-SELECT type, COUNT(*) AS total FROM netflix GROUP BY type;
-```
 
 ### 📅 2. List all movies released in a specific year (e.g., 2020)
 ```sql
